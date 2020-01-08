@@ -1,7 +1,7 @@
 class ChattyStudent < Student 
   def hello 
     super
-    puts "Hey there! I'm so excited to learn stuff.\nHoware you doing today? I'm okay, but I'm kind of tired....n, it was so crazy! What, you don't want any spoilers? Okay well let me just tell you who died...\n" tostdout, but output "Hey there!, I'm excited to learn stuff.\nHow are you doing today? I'm okay, but I'm kind of tired. d...oh man, it was so crazy1 What you don't want any spoilers? Okay well let me tell you who died ...\n"
+    puts "Hey there! I'm so excited to learn stuff.\nHoware you doing today? I'm okay, but I'm kind of tired....n, it was so crazy! What, you don't want any spoilers? Okay well let me just tell you who died...\n"
   end 
   
   def raise_hand 
